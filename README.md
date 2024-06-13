@@ -1,4 +1,4 @@
-![image](https://github.com/PhamTrungHieu2001/Data-Professions/assets/73734497/6d028156-ed8e-4376-a58d-a5fa94a9e359)![image](https://github.com/PhamTrungHieu2001/Data-Professions/assets/73734497/b3986b50-c147-4bdc-a909-5191d010755a)![image](https://github.com/PhamTrungHieu2001/Data-Professions/assets/73734497/9fd36859-8cc6-43c3-9d13-2c30f2c2fbde)# Data-Professions
+# Data-Professions
 # Introduction
 ## Overview
 
