@@ -6,8 +6,8 @@ This project uses PowerBI to analyze survey data about various data professions.
 The goal is to create interactive dashboards and reports to visualize the survey results. These insights will help understand the distribution of roles and trends in the data industry.
 
 ## Tool used
-Power Query: data cleaning
-PowerBI: data visualization
+- Power Query: data cleaning
+- PowerBI: data visualization
 
 ## Data cleaning
 ### 1. Group other professions into 1 group
