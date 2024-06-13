@@ -13,6 +13,7 @@ PowerBI: data visualization
 1. Group other professions into 1 group
 - Select 'Split Column by Delimiter' -> 'Custom' -> '('
 - Delete the split column
+
 | **Before**                                | **After**                                                                                   |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
 | Other (Please Specify):Analytics Consultant  | Other |
