@@ -10,7 +10,7 @@ Power Query: data cleaning
 PowerBI: data visualization
 
 ## Data cleaning
-1. Group other professions into 1 group
+### 1. Group other professions into 1 group
 - Select 'Split Column by Delimiter' -> 'Custom' -> '('
 - Delete the split column
 
@@ -24,7 +24,7 @@ PowerBI: data visualization
 
 - The same method applies to the 'Industry', 'Programming Language', and 'Country' columns
 
-2. Calculate the average salary
+### 2. Calculate the average salary
 - Split 'Q3 - Current Yearly Salary (in USD)' into 2 columns by '-'
 - Calculate the average of those 2 columns
 
@@ -37,9 +37,9 @@ PowerBI: data visualization
 | 41k-65k | 53000 |
 
 ## Data analysis
-1. Total participants and average age
-2. Average salary by country
-3. Average salary by job title
-4. Favorite programming languages
-5. Number of participants by level of education
-6. Happiness with salary and coworkers 
+### 1. Total participants and average age
+### 2. Average salary by country
+### 3. Average salary by job title
+### 4. Favorite programming languages
+### 5. Number of participants by level of education
+### 6. Happiness with salary and coworkers 
