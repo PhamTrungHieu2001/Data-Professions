@@ -1,9 +1,8 @@
 # Data-Professions
-# Introduction
+
 ## Overview
 
 ## Objective
-The project focuses on answering questions like:
 
 ## Tool used
 Power Query: data cleaning
@@ -38,8 +37,32 @@ PowerBI: data visualization
 
 ## Data analysis
 ### 1. Total participants and average age
+- There are 630 survey participants and their average age is about 30.
+
+![1](https://github.com/PhamTrungHieu2001/Data-Professions/blob/main/images/age.jpg)
+
 ### 2. Average salary by country
+The USA has the highest average salary, at nearly $80,000 a year.
+
+![2](https://github.com/PhamTrungHieu2001/Data-Professions/blob/main/images/country.jpg)
+
 ### 3. Average salary by job title
+Data Scientist is the highest-paying job compared to all other data professions.
+
+![3](https://github.com/PhamTrungHieu2001/Data-Professions/blob/main/images/job.jpg)
+
 ### 4. Favorite programming languages
+The most favorite programming language among people working in data is Python.
+
+![4](https://github.com/PhamTrungHieu2001/Data-Professions/blob/main/images/gender.jpg)
+
 ### 5. Number of participants by level of education
+The majority of survey participants have a bachelor's degree.
+
+![5](https://github.com/PhamTrungHieu2001/Data-Professions/blob/main/images/education.jpg)
+
 ### 6. Happiness with salary and coworkers 
+People are not too happy with their salary and coworkers.
+
+![6](https://github.com/PhamTrungHieu2001/Data-Professions/blob/main/images/happiness.jpg)
+
