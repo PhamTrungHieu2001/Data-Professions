@@ -1,8 +1,9 @@
 # Data-Professions
+For more interactions with the dashboard, please download [Data Profession.pbix](https://github.com/PhamTrungHieu2001/Data-Professions/blob/main/Data%20Profession.pbix)
 
 ## Overview
-
-## Objective
+This project uses PowerBI to analyze survey data about various data professions. The survey includes responses from roles such as Data Analyst, Data Engineer, Data Scientist, and others.
+The goal is to create interactive dashboards and reports to visualize the survey results. These insights will help understand the distribution of roles and trends in the data industry.
 
 ## Tool used
 Power Query: data cleaning
