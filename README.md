@@ -2,8 +2,10 @@
 For more interactions with the dashboard, please download [Data Profession.pbix](https://github.com/PhamTrungHieu2001/Data-Professions/blob/main/Data%20Profession.pbix)
 
 ## Overview
-This project uses PowerBI to analyze survey data about various data professions. The survey includes responses from roles such as Data Analyst, Data Engineer, Data Scientist, and others.
-The goal is to create interactive dashboards and reports to visualize the survey results. These insights will help understand the distribution of roles and trends in the data industry.
+This project uses PowerBI to analyze and visualize survey data about various data professions. The survey includes responses from roles such as Data Analyst, Data Engineer, Data Scientist, and others. These insights will help understand the distribution of roles and trends in the data industry such as:
+1. Which country has the highest average salary?
+2. What is the average salary of each role?
+3. Are people happy with their salary and coworkers?
 
 ## Tool used
 - Power Query: data cleaning
